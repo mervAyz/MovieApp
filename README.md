@@ -1,3 +1,6 @@
+# Film Arama Uygulaması
+Bu uygulamada filmler sayfalarla bölünüp listelenmiştir. Header'da bulunan filterlar ile filtreleme yapılabilir. Her movie'nin detayı card'ların altında yer almaktadır.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
